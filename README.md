@@ -3,7 +3,7 @@
 ##
 
 ## Contents
-### readmission_code
+### readmission_code.R
 This contains all R code used for the analysis, from EDA to model analysis.
-### Readmission PDF
+### Readmission.pdf
 This is the final report.
